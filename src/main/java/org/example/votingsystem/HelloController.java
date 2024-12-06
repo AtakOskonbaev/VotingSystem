@@ -66,6 +66,7 @@ public class HelloController {
                 stmt.setString(2, password);  // Hash this in a real system
                 stmt.setString(3, email);
                 stmt.executeUpdate();
+                System.out.println("User " + username + " has been registered.");
             }
         } catch (SQLException e) {
             e.printStackTrace();
@@ -89,6 +90,7 @@ public class HelloController {
                 stmt.setInt(2, voteOptionId);
                 stmt.executeUpdate();
                 loadVotes();  // Reload the votes after inserting
+                System.out.println("Vote " + userId + " has been voted.");
             }
         } catch (SQLException e) {
             e.printStackTrace();
