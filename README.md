@@ -29,4 +29,5 @@ The Voting System project is designed to streamline the voting process with a se
 
 ## **Screenshots**
 
-pretend like you are amazed by this screenshots
+
+![photo_2024-12-09_11-17-59](https://github.com/user-attachments/assets/c17c9ff0-ca55-4f48-a138-542d9b0c6057)
