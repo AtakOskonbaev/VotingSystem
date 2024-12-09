@@ -7,12 +7,9 @@ The Voting System project is designed to streamline the voting process with a se
 
 ## **Features**
 - **User Authentication:** Secure registration and login for voters and administrators.
-- **Role-Based Access Control:** Separate interfaces and functionalities for voters and admins.
 - **Election Management:** Admins can manage elections, candidates, and timelines.
 - **Voting Interface:** Intuitive interface for voters to cast their votes easily.
 - **Real-Time Results:** Dynamic result updates as votes are cast.
-- **Data Security:** Encryption for sensitive user and voting data.
-- **Audit Logs:** Transparent system activity tracking.
 - **Error Handling:** Comprehensive validation and error management.
 
 ---
